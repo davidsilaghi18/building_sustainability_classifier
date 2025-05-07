@@ -59,14 +59,18 @@ Output:
 sustainable (1 = Yes, 0 = No)
 
 🗂 Files in This Project
-├── app.py                 # Streamlit app
-├── exploration.ipynb      # Jupyter Notebook exploration
-├── model.pkl              # Saved ML model
-├── data/
-│   └── buildings.csv      # Input dataset
-├── images/
-│   └── banner_classifier_app.png  # App screenshot
-└── README.md              # This file
+
++-----------------------------+-------------------------------+
+| File/Folder                 | Description                   |
++-----------------------------+-------------------------------+
+| app.py                     | Streamlit app                 |
+| exploration.ipynb          | Jupyter Notebook exploration  |
+| model.pkl                  | Saved ML model                |
+| data/buildings.csv         | Input dataset                 |
+| images/banner_classifier_app.png | App screenshot           |
+| README.md                  | This file                     |
++-----------------------------+-------------------------------+
+
 
 💡 Author
 David Silaghi – https://github.com/davidsilaghi18
